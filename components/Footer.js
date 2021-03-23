@@ -1,9 +1,9 @@
 const Footer = () => (
-  <footer className="border-t-2 mx-16 mt-8 py-6 px-2 border-theme-orange">
+  <footer className="border-t-2 mx-8 md:mx-16 mt-8 py-6 px-2 border-theme-orange">
     <div className="flex w-full justify-between">
       <img
         src="/images/logo-full-white.png"
-        className="w-32"
+        className="w-32 h-full"
         alt="Mimir Viking Helmet Logo"
       />
       <div className="flex">
