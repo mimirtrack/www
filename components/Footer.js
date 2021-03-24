@@ -10,13 +10,13 @@ const Footer = () => (
         <p>
           <a
             href="mailto:hello@mimir.gg"
-            class="no-underline hover:underline pr-2"
+            className="no-underline hover:underline pr-2"
           >
             Contact
           </a>
         </p>
         <p>
-          <a href="#" class="no-underline hover:underline pl-2">
+          <a href="#" className="no-underline hover:underline pl-2">
             Privacy
           </a>
         </p>

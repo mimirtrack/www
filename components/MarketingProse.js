@@ -1,6 +1,6 @@
 const MarketingProse = () => (
-  <div class="container mx-auto px-4 sm:px-8">
-    <div class="mx-auto prose prose-light prose-lg">
+  <div className="container mx-auto px-4 sm:px-8">
+    <div className="mx-auto prose prose-light prose-lg">
       <h2>Level up your Gaming</h2>
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
